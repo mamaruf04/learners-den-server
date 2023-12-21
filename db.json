@@ -66,7 +66,7 @@
   ],
   "videos": [
     {
-      "id": 1,
+      "id": 54535,
       "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
       "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
       "url": "https://www.youtube.com/embed/dD9O8DnIBj4",
@@ -84,36 +84,31 @@
       "createdAt": "2023-02-24T17:59:00.000Z"
     },
     {
-      "title": "Bangla Javascript Pro",
-      "description": "lorem ipsum.....JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial In this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
-      "url": "https://www.youtube.com/embed/E9_R88eKcBM",
-      "views": "150k",
-      "duration": "45",
+      "title": "React JS - React Tutorial for Beginners",
+      "description": "React JS Tutorial - Get up & running with React JS: the most popular JavaScript library in the world!",
+      "url": "https://www.youtube.com/embed/Ke90Tje7VS0?si=7rH2rqyf7oOwPjVF",
+      "views": "6M",
+      "duration": "2:25:26",
       "createdAt": "2023-04-06T19:47:36.807Z",
       "id": 4
     },
     {
       "title": "Python Tutorial - Python Full Course for Beginners",
-      "description": "Python tutorial - Python full course for beginners - Go from Zero to Hero with Python (includes machine learning & web development projects).
-
-🔥 Want to master Python? Get my Python mastery course: http://bit.ly/35BLHHP
-👍 Subscribe for more Python tutorials like this: https://goo.gl/6PYaGF
-
-👉 Watch the new edition:   
-
- • Python for Beginners - Learn Python i...  
-
-📕 Get my FREE Python cheat sheet: http://bit.ly/2Gp80s6
-
-Want to learn more from me? 
-
-Courses: https://codewithmosh.com
-",
+      "description": "Python tutorial - Python full course for beginners - Go from Zero to Hero with Python (includes machine learning & web development projects). Courses: https://codewithmosh.com",
       "url": "https://www.youtube.com/embed/_uQrJ0TkZlc?si=Pc4YuNldOdZY9RDe",
       "views": "35M",
       "duration": "6:14:06",
       "createdAt": "2023-04-08T13:47:48.612Z",
-      "id": 5
+      "id": 1
+    },
+    {
+      "title": "The Most Hated React Code!",
+      "description": "This picture has been floating on the Internet these past few days and has received a lot of criticism from the community. This is part of the Next.js conference that was held last week. A lot of people argue that the code presented in this slide is violating many of the best practices we've learned. In this video, I'll explain my point of view on these arguments and share why I think the direction that React and Next.js are taking is a great direction.",
+      "url": "https://www.youtube.com/embed/B5Kh0kZ-gA8?si=ey-kFWP9OMnd3pOk",
+      "views": "36k",
+      "duration": "8:11",
+      "createdAt": "2023-04-08T13:47:48.612Z",
+      "id": 665345
     }
   ],
   "assignments": [

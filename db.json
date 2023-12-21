@@ -2,7 +2,7 @@
   "users": [
     {
       "email": "admin@demo.com",
-      "password": "$2a$10$/TDPCTU28mFzKnSsW2pHSu512mpMKxLf8eiPbcTFLSNL87tbZBp3W",
+      "password": "$2a$10$kmHUzXz6UN15CZN7wFO66OM36LkQFFBMBrz9B.uv30wvQUsxPb81m",
       "role": "admin",
       "name": "Admin",
       "id": 1

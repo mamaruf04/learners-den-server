@@ -11,42 +11,42 @@
       "email": "saad.hasan@learnwithsumit.com",
       "password": "$2a$10$4iJEmSkM1Dq6WMRb0SuJeeic1SEB9TrH3gw5IT441Adox/ZZXj2Ae",
       "role": "student",
-      "name": "Saad Hasan",
+      "name": "Raktim",
       "id": 2
     },
     {
       "email": "akash.ahmed@learnwithsumit.com",
       "password": "$2a$10$TNsYpL6ffKBrupNNvdJlleJlgIkp1C1xQJCbiv7HAl5Ggs.kucie2",
       "role": "student",
-      "name": "Akash Ahmed",
+      "name": "Prema Rahman",
       "id": 3
     },
     {
       "email": "md.salahuddin@learnwithsumit.com",
       "password": "$2a$10$dcWjzIi4mLAERlWE4nfJW.1/mvC9FXqZU8A2V1rPlsqIrP3kWa8PG",
       "role": "student",
-      "name": "Mohammad Salahuddin",
+      "name": "Khalid",
       "id": 4
     },
     {
       "email": "ferdous.shohag@learnwithsumit.com",
       "password": "$2a$10$IZ6eXNauYSqMhl38Wc46texV2vjGZz.Zl66j7hrnW6ZDSDcMlPWeu",
       "role": "student",
-      "name": "Ferdous",
+      "name": "Farhan",
       "id": 5
     },
     {
       "email": "riyadh.vai@learnwithsumit.com",
       "password": "$2a$10$e4XPY48UpqmAj8teZ2je8.qd5AEk6hWm5PQwDoJsCsE91qlDPJx1G",
       "role": "student",
-      "name": "Riyadh",
+      "name": "Saiyara",
       "id": 6
     },
     {
       "email": "arif.almas@learnwithsumit.com",
       "password": "$2a$10$NN4pXB4tBMw.ySrMDPMymepSGDdcvKzx/RjNCrdNTENOFVLWCWGOi",
       "role": "student",
-      "name": "Arif",
+      "name": "Tabib Hasan",
       "id": 7
     },
     {
@@ -84,8 +84,8 @@
       "createdAt": "2023-02-24T17:59:00.000Z"
     },
     {
-      "title": "There is all Duglapan 18",
-      "description": "hrtfhgftghtf",
+      "title": "Bangla Javascript Pro",
+      "description": "lorem ipsum.....JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial In this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
       "url": "https://www.youtube.com/embed/E9_R88eKcBM",
       "views": "150k",
       "duration": "45",
@@ -93,8 +93,8 @@
       "id": 4
     },
     {
-      "title": "There is all Duglapan 14",
-      "description": "lorem ....ghtfhrtf ghtrfhf etgtrd",
+      "title": "Function in JavaScript",
+      "description": "lorem ....JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial In this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
       "url": "https://www.youtube.com/embed/dD9O8DnIBj4",
       "views": "45k",
       "duration": "45:34",
